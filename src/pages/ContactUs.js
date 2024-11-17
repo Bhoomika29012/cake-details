@@ -76,9 +76,10 @@ const ContactUs = () => {
           <h2>Our Contact Information</h2>
           <p>If you'd rather reach us directly, here are our contact details:</p>
           <ul>
-            <li><strong>Email:</strong> support@sweetslicecakes.com</li>
+            <li><strong>Email:</strong> support@cakecanavas.com</li>
             <li><strong>Phone:</strong> +91 123 456 7890</li>
-            <li><strong>Address:</strong> 123 Cake Street, Baking Town, India</li>
+            <li><strong>Address:</strong>
+            456 Frost Avenue, Sweetville, India</li>
           </ul>
         </section>
       </div>

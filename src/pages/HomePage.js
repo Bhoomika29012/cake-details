@@ -5,10 +5,10 @@ import './HomePage.css';
 
 
 // Import images
-import birthdayCakeImage from '../assets/birthday.jpg';
-import anniversaryCakeImage from '../assets/anniversary.jpg';
-import celebrationCakeImage from '../assets/celebration.jpg';
-import bannerImage from '../assets/banner.jpg';
+import birthdayCakeImage from '../assets/birth.jpg';
+import anniversaryCakeImage from '../assets/anni.jpg';
+import celebrationCakeImage from '../assets/celeb.jpg';
+import bannerImage from '../assets/bann.jpg';
 
 const cakeCategories = [
   { id: 1, name: 'Birthday', description: 'Cakes for Birthday celebrations.', image: birthdayCakeImage },
@@ -24,8 +24,9 @@ function HomePage() {
       <section className="banner">
         <img src={bannerImage} alt="Banner" className="banner-image" />
         <div className="banner-overlay">
-          <h1>Welcome to Sweet Slice!</h1>
-          <p>Discover cakes for every occasion, freshly baked and delightful!</p>
+          <h1>Welcome to CakeCanvas!</h1>
+          <p>
+          Explore freshly baked cakes crafted to make every occasion special and memorable!</p>
          
         </div>
       </section>
