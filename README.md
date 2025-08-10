@@ -70,15 +70,19 @@ It also includes an About Us page, a contact form, and a global footer for bette
 
  🚀 Run Locally  
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/Bhoomika29012/cake-details.git
-2. Navigate to the project directory
-   cd cake-details
-3. Install dependencies
-   npm install
-4. Start the development server
-   npm start   
+
+ Clone this repository
+git clone https://github.com/Bhoomika29012/cake-details.git
+
+ Navigate to the project directory
+cd cake-details
+
+Install dependencies
+npm install
+
+Start the development server
+npm start
+ 
 
 
 
