@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+🍰 Cake Details Website  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive and interactive cake shop website built using **HTML**, **CSS**, **JavaScript**, and **React.js**.  
+This project showcases various cakes, allows customers to view details, and lets them manage their shopping cart — providing a smooth, user-friendly e-commerce experience.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+📌 Overview  
 
-### `npm start`
+The Cake Details Website is designed to be **visually appealing**, **mobile-friendly**, and **easy to navigate**.  
+It features an attractive homepage, well-organized cake categories, detailed product pages, and an optional shopping cart system.  
+It also includes an About Us page, a contact form, and a global footer for better user accessibility.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✨ Features  
 
-### `npm test`
+ 🏠 Homepage  
+- Welcoming message & bakery introduction  
+- Featured cakes & special offers  
+- Visually appealing cake images  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🍫 Cake Categories  
+- Different sections for cake types (Chocolate Cakes, Fruit Cakes, Custom Cakes, etc.)  
+- Category-wise filtering & sorting  
+- Easy navigation with image-based category cards  
 
-### `npm run build`
+📄 Cake Details Page  
+- Ingredients, flavor, size, and price display  
+- Quantity, size, and customization options  
+- Add-to-cart button & customer reviews  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ 🛒 Shopping Cart  
+- View, update, and remove items  
+- Display item details and total cost  
+- Checkout option  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📖 About Us & Contact  
+- Bakery background and values  
+- Contact form with address, phone, and email  
+- Social media links  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📍 Footer  
+- Quick navigation links  
+- Contact info & social media icons  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ 🖼 Screenshots  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*(Add your project screenshots here)*  
+Example:  
+![Homepage Screenshot](screenshots/homepage.png)  
+![Cake Details Page](screenshots/cake-details.png)  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ 🛠 Tech Stack  
 
-## Learn More
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Styling:** CSS Flexbox, Grid, Media Queries   
+- **Version Control:** Git & GitHub  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ 🚀 Run Locally  
 
-### Code Splitting
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Bhoomika29012/cake-details.git
+2. Navigate to the project directory
+   cd cake-details
+3. Install dependencies
+   npm install
+4. Start the development server
+   npm start   
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
