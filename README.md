@@ -50,10 +50,11 @@ It also includes an About Us page, a contact form, and a global footer for bette
 
 *(Add your project screenshots here)*  
 Example:  
-![Homepage Screenshot](screenshots/homepage.png)  
+
 ![Cake Details Page](screenshots/cake-details.png)  
 
----
+---<img width="1196" height="718" alt="cake1" src="https://github.com/user-attachments/assets/afbddc5d-a975-4a19-8ef2-fbb74d60f460" />
+
 
  🛠 Tech Stack  
 
