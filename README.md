@@ -40,7 +40,7 @@ It also includes an About Us page, a contact form, and a global footer for bette
 - Contact form with address, phone, and email  
 - Social media links  
 
-## 📍 Footer  
+ 📍 Footer  
 - Quick navigation links  
 - Contact info & social media icons  
 
