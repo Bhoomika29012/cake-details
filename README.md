@@ -1,11 +1,11 @@
-🍰 Cake Details Website  
+## 🍰 Cake Details Website  
 
 A responsive and interactive cake shop website built using **HTML**, **CSS**, **JavaScript**, and **React.js**.  
 This project showcases various cakes, allows customers to view details, and lets them manage their shopping cart — providing a smooth, user-friendly e-commerce experience.
 
 ---
 
-📌 Overview  
+## 📌 Overview  
 
 The Cake Details Website is designed to be **visually appealing**, **mobile-friendly**, and **easy to navigate**.  
 It features an attractive homepage, well-organized cake categories, detailed product pages, and an optional shopping cart system.  
@@ -13,7 +13,7 @@ It also includes an About Us page, a contact form, and a global footer for bette
 
 ---
 
-✨ Features  
+## ✨ Features  
 
  🏠 Homepage  
 - Welcoming message & bakery introduction  
@@ -40,13 +40,13 @@ It also includes an About Us page, a contact form, and a global footer for bette
 - Contact form with address, phone, and email  
 - Social media links  
 
-📍 Footer  
+## 📍 Footer  
 - Quick navigation links  
 - Contact info & social media icons  
 
 ---
 
- 🖼 Screenshots  
+ ## 🖼 Screenshots  
 
 
 
@@ -60,7 +60,7 @@ It also includes an About Us page, a contact form, and a global footer for bette
 <img width="1830" height="853" alt="cake4" src="https://github.com/user-attachments/assets/55607c20-f961-4e34-9d0e-65713d8687e4" />
 
 
- 🛠 Tech Stack  
+ ## 🛠 Tech Stack  
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
 - **Styling:** CSS Flexbox, Grid, Media Queries   
@@ -68,7 +68,7 @@ It also includes an About Us page, a contact form, and a global footer for bette
 
 ---
 
- 🚀 Run Locally  
+## 🚀 Run Locally  
 
 
  Clone this repository
